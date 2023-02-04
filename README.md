@@ -3,7 +3,7 @@
 
 - 🌱 Estou aprendendo **Python para Análise de Dados, Power BI e Machine Learning**
 
-- 👨‍💻 Meus projetos com Dashboards estão disponíveis em [https://sites.google.com/view/portfoliovinicius/início](https://sites.google.com/view/portfoliovinicius/início)
+- 👨‍💻 Meus projetos com Dashboards estão disponíveis em [https://sites.google.com/view/meus-portfolios/início](https://sites.google.com/view/meus-portfolios/início)
 
 - 💬 Me pergunte sobre **SQL, Excel, Power BI e Python**
 
